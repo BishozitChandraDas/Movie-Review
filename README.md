@@ -1,16 +1,11 @@
-# movie_app
+# Movie Review App
 
-A new Flutter project.
+Movie Review App is a user-friendly platform for movie enthusiasts to explore reviews, view detailed movie information, and discover nearby cinema hall locations. Users can create an account, log in, and log out securely while enjoying a seamless browsing experience.
 
-## Getting Started
+## Project Details
+- Implement the bottom bar
+- Implement the sign up screen
+- Implement the location wiscreendget
+- Implement the login screen
+- Implement the sign up screen
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
