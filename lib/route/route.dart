@@ -18,7 +18,7 @@ class AppRoute {
   static String getSplashScreen() => splashScreen;
   static String getregisterScreen() => registerScreen;
   static String getwelcomeScreen() => welcomeScreen;
-  static String getbottomNavbarScreen() => bottomNavbarScreen;
+  static String getbottomNavbarScreen() => bottomNavbarScreen; 
 
 
   static List<GetPage> routes = [
