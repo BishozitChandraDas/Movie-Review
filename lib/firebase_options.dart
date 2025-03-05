@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
     iosBundleId: 'com.example.movieApp',
   );
 
-  static const FirebaseOptions macos = FirebaseOptions(
+  static const FirebaseOptions macos = FirebaseOptions( 
     apiKey: 'AIzaSyAsfF7_OSiz4zWZiQc_g7-mKL9qjUZBYDE',
     appId: '1:966226330725:ios:0b0a8faeab595a6922f28c',
     messagingSenderId: '966226330725',

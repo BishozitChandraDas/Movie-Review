@@ -15,7 +15,7 @@ class AppRoute {
   static String bottomNavbarScreen = '/bottomNavbarScreen';
 
 
-  static String getSplashScreen() => splashScreen; 
+  static String getSplashScreen() => splashScreen;
   static String getregisterScreen() => registerScreen;
   static String getwelcomeScreen() => welcomeScreen;
   static String getbottomNavbarScreen() => bottomNavbarScreen; 

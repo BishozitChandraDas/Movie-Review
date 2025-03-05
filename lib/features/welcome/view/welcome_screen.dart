@@ -14,13 +14,13 @@ class WelcomeScreen extends StatelessWidget {
     return Scaffold( 
       backgroundColor: Colors.black,
       body: Padding(
-        padding: EdgeInsets.only( 
+        padding: EdgeInsets.only(
           left: 20,
           right: 20,
           top: 55,
         ),
         child: SingleChildScrollView(
-          child: Column(
+          child: Column( 
             children: [
               Row(
                 children: [
@@ -55,7 +55,7 @@ class WelcomeScreen extends StatelessWidget {
               ), 
               CustomButtonContainer(
                 buttonColor: AppColors.primaryColor,
-                textColor: Colors.black,
+                textColor: Colors.black, 
                 text: "Signin", 
                 onTap: (){
                   Get.offAllNamed("/loginScreen");

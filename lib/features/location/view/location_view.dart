@@ -29,7 +29,7 @@ class LocationView extends StatelessWidget {
         () => SizedBox(
           height: double.infinity,
           width: double.infinity,
-          child: GoogleMap(
+          child: GoogleMap( 
             onMapCreated: controller.onMapCreated,
             initialCameraPosition: CameraPosition(
               target: controller.initialPosition,

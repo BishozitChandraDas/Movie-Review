@@ -12,11 +12,11 @@ class SplashScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     // Initialize the controller
     final SplashController controller = Get.put(SplashController());
-
+ 
     return Scaffold(
       backgroundColor: Colors.black,
       body: Center(
-        child: Obx(
+        child: Obx( 
           () => Transform.scale(
             scale: controller
                 .scaleAnimation.value.value, // Bind to animation value
