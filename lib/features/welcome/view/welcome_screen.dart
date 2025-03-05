@@ -14,7 +14,7 @@ class WelcomeScreen extends StatelessWidget {
     return Scaffold( 
       backgroundColor: Colors.black,
       body: Padding(
-        padding: EdgeInsets.only(
+        padding: EdgeInsets.only( 
           left: 20,
           right: 20,
           top: 55,
