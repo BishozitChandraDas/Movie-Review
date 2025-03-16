@@ -9,3 +9,4 @@ Movie Review App is a user-friendly platform for movie enthusiasts to explore re
 - Implement the login screen
 - Implement the sign up screen
 
+ 
